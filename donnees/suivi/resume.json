@@ -1,0 +1,17 @@
+{
+  "regle_50j": {
+    "mise_en_service": "2026-10-27",
+    "derniere_date": "2026-11-05",
+    "jours": 9,
+    "capital_depart_usd": 1000.0,
+    "theorique_final_usd": 979.93,
+    "gain_usd": -20.07,
+    "gain_pct": -2.01,
+    "plus_forte_baisse_usd": -20.07,
+    "meilleur_jour_usd": 0.0,
+    "pire_jour_usd": -10.17,
+    "reel_final_usd": 982.33,
+    "gain_reel_usd": -17.67,
+    "reel_derniere_date": "2026-11-05"
+  }
+}
