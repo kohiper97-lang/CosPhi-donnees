@@ -1,0 +1,17 @@
+{
+  "emplacements": [
+    {"id": "classement_quotidien", "nom": "Classement quotidien", "categorie": "crypto", "statut": "bientot",
+     "description": "Chaque jour, classe les cryptos et investit dans les meilleures.",
+     "options": [
+       {"id": "parts_egales", "nom": "Répartition égale", "offre": "gratuit"},
+       {"id": "parts_rentabilite", "nom": "Répartition selon la rentabilité", "offre": "premium"}
+     ]},
+    {"id": "achat_vente", "nom": "Achat-vente", "categorie": "crypto", "statut": "bientot",
+     "description": "Modèle d'achat et de vente (à intégrer).", "options": []},
+    {"id": "matieres_premieres", "nom": "Matières premières", "categorie": "matieres_premieres", "statut": "bientot",
+     "description": "Modèle sur les matières premières (à intégrer).", "options": []},
+    {"id": "regle_50j", "nom": "Règle 50 jours", "categorie": "crypto", "statut": "disponible",
+     "description": "Achat ou cash selon la moyenne des 50 jours, 14 cryptos à parts égales.",
+     "options": [{"id": "standard", "nom": "Parts égales", "offre": "gratuit"}]}
+  ]
+}

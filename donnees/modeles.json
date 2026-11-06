@@ -1,0 +1,100 @@
+[
+  {
+    "id": "classement_quotidien",
+    "nom": "Classement quotidien",
+    "description": "Chaque jour, classe les cryptos et investit dans les meilleures.",
+    "univers": [],
+    "fiche": {},
+    "actif": false,
+    "plafond_usd": 0.0,
+    "statut": "bientot",
+    "options": [
+      {
+        "id": "parts_egales",
+        "nom": "Répartition égale",
+        "offre": "gratuit"
+      },
+      {
+        "id": "parts_rentabilite",
+        "nom": "Répartition selon la rentabilité",
+        "offre": "premium"
+      }
+    ],
+    "categorie": "crypto"
+  },
+  {
+    "id": "achat_vente",
+    "nom": "Achat-vente",
+    "description": "Modèle d'achat et de vente (à intégrer).",
+    "univers": [],
+    "fiche": {},
+    "actif": false,
+    "plafond_usd": 0.0,
+    "statut": "bientot",
+    "options": [],
+    "categorie": "crypto"
+  },
+  {
+    "id": "matieres_premieres",
+    "nom": "Matières premières",
+    "description": "Modèle sur les matières premières (à intégrer).",
+    "univers": [],
+    "fiche": {},
+    "actif": false,
+    "plafond_usd": 0.0,
+    "statut": "bientot",
+    "options": [],
+    "categorie": "matieres_premieres"
+  },
+  {
+    "id": "regle_50j",
+    "nom": "Règle 50 jours – achat ou cash (14 cryptos)",
+    "description": "Chaque crypto a une part fixe de 1/14 du capital. Chaque soir, si son prix de clôture est au-dessus de sa moyenne des 50 derniers jours, on la garde (ou on l'achète) ; sinon, cette part passe en cash.",
+    "univers": [
+      "BTC",
+      "ETH",
+      "BNB",
+      "SOL",
+      "XRP",
+      "ADA",
+      "DOGE",
+      "LINK",
+      "AVAX",
+      "LTC",
+      "DOT",
+      "TRX",
+      "BCH",
+      "XLM"
+    ],
+    "fiche": {
+      "idee": "Suivre la tendance : on garde une crypto tant que son prix est au-dessus de sa moyenne des 50 derniers jours, et on passe en cash quand il retombe en dessous. But : éviter les grosses chutes.",
+      "test": "Rejoué sur le passé, du 01/03/2018 au 20/10/2026, sur 14 cryptos à parts égales, avec les frais réels d'Alpaca (0,31 % par ordre), 1 000 $ au départ.",
+      "resultat": "1 000 $ → 24 118 $ (contre 12 396 $ en gardant simplement les cryptos). Pire baisse : −55 % (contre −84 %).",
+      "reussite_pct": 79,
+      "reussite_definition": "Part des cryptos (11 sur 14) pour lesquelles la règle seule fait mieux que les garder, frais compris. Le test initial, fait autrement, donnait 64 % pour un seuil fixé à 70 % : le modèle reste NON VALIDÉ.",
+      "resultats": {
+        "periode": "01/03/2018 → 20/10/2026",
+        "frais_alpaca_0_31_pct_usd": 24118,
+        "frais_binance_0_10_pct_usd": 37294,
+        "conditions_dures_0_62_pct_et_1_jour_usd": 13939,
+        "garder_les_cryptos_usd": 12396,
+        "garder_pire_baisse_pct": -84.0,
+        "cryptos_battant_garder_pct": 64
+      },
+      "pire_baisse_pct": -55.1,
+      "statut": "non_valide",
+      "notes": "Bat « garder » sur 64 % des cryptos (autre discussion), sous la règle fixée d'avance de 70 % : non validé. Biais du survivant possible. Avec les frais réels d'Alpaca (0,31 % par ordre), l'avance sur « garder » se réduit nettement. En test fictif (Alpaca paper)."
+    },
+    "actif": true,
+    "plafond_usd": 1000.0,
+    "statut": "disponible",
+    "options": [
+      {
+        "id": "standard",
+        "nom": "Parts égales",
+        "offre": "gratuit"
+      }
+    ],
+    "categorie": "crypto"
+  }
+]

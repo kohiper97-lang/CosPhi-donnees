@@ -1,0 +1,4 @@
+{
+  "modeles": {"regle_50j": {"actif": true, "plafond_usd": 1000}},
+  "argent_reel": {"autorise": false}
+}

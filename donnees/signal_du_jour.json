@@ -1,0 +1,24 @@
+{
+  "regle_50j": {
+    "date": "2026-11-05",
+    "poids": {},
+    "explication": "0 crypto(s) sur 14 au-dessus de leur moyenne 50 jours, soit 0 % du capital investi.\nBTC : clôture 76 088 $, moyenne 50 j 82 061 $ (-7,3 %) : en dessous → en cash\nETH : clôture 2 238 $, moyenne 50 j 2 505 $ (-10,7 %) : en dessous → en cash\nBNB : clôture 689,72 $, moyenne 50 j 747,46 $ (-7,7 %) : en dessous → en cash\nSOL : clôture 89,33 $, moyenne 50 j 108,48 $ (-17,7 %) : en dessous → en cash\nXRP : clôture 1,21 $, moyenne 50 j 1,38 $ (-12,8 %) : en dessous → en cash\nADA : clôture 0,1809 $, moyenne 50 j 0,2277 $ (-20,6 %) : en dessous → en cash\nDOGE : clôture 0,0712 $, moyenne 50 j 0,0853 $ (-16,6 %) : en dessous → en cash\nLINK : clôture 10,68 $, moyenne 50 j 12,63 $ (-15,4 %) : en dessous → en cash\nAVAX : clôture 8,17 $, moyenne 50 j 9,90 $ (-17,5 %) : en dessous → en cash\nLTC : clôture 51,63 $, moyenne 50 j 61,84 $ (-16,5 %) : en dessous → en cash\nDOT : clôture 0,9090 $, moyenne 50 j 1,12 $ (-18,7 %) : en dessous → en cash\nTRX : clôture 0,3184 $, moyenne 50 j 0,3323 $ (-4,2 %) : en dessous → en cash\nBCH : clôture 272,40 $, moyenne 50 j 290,28 $ (-6,2 %) : en dessous → en cash\nXLM : clôture 0,1530 $, moyenne 50 j 0,1918 $ (-20,2 %) : en dessous → en cash",
+    "raisons": {
+      "BTC": "Prix -7,3 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
+      "ETH": "Prix -10,7 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
+      "BNB": "Prix -7,7 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
+      "SOL": "Prix -17,7 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
+      "XRP": "Prix -12,8 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
+      "ADA": "Prix -20,6 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
+      "DOGE": "Prix -16,6 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
+      "LINK": "Prix -15,4 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
+      "AVAX": "Prix -17,5 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
+      "LTC": "Prix -16,5 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
+      "DOT": "Prix -18,7 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
+      "TRX": "Prix -4,2 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
+      "BCH": "Prix -6,2 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
+      "XLM": "Prix -20,2 % sous sa moyenne 50 jours : tendance baissière, on reste en cash."
+    },
+    "valeur_usd": 982.3338
+  }
+}
