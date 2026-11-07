@@ -22,6 +22,72 @@
       "MATIC": "Pas de données récentes sur Binance : non classée aujourd'hui."
     },
     "execution": "simulateur",
+    "details": {
+      "classement": [
+        {
+          "symbole": "BTC",
+          "score": 0.0682
+        },
+        {
+          "symbole": "BNB",
+          "score": 0.063
+        },
+        {
+          "symbole": "TRX",
+          "score": 0.0571
+        },
+        {
+          "symbole": "SOL",
+          "score": 0.056
+        },
+        {
+          "symbole": "ETH",
+          "score": 0.0424
+        },
+        {
+          "symbole": "XRP",
+          "score": 0.0348
+        },
+        {
+          "symbole": "LINK",
+          "score": 0.0341
+        },
+        {
+          "symbole": "DOGE",
+          "score": 0.0291
+        },
+        {
+          "symbole": "LTC",
+          "score": 0.0263
+        },
+        {
+          "symbole": "ATOM",
+          "score": 0.0245
+        },
+        {
+          "symbole": "XLM",
+          "score": 0.0225
+        },
+        {
+          "symbole": "BCH",
+          "score": 0.0203
+        },
+        {
+          "symbole": "AVAX",
+          "score": 0.0098
+        },
+        {
+          "symbole": "DOT",
+          "score": 0.0017
+        },
+        {
+          "symbole": "ADA",
+          "score": -0.0103
+        }
+      ],
+      "filtre_bitcoin_positif": false,
+      "btc_vs_moyenne_100j_pct": -1.65
+    },
     "valeur_usd": 1000.0,
     "mise_en_service": null
   },
@@ -48,6 +114,11 @@
       "MATIC": "Le bitcoin est en dessous de sa moyenne des 100 jours (-1,6 %) : tout en cash."
     },
     "execution": "simulateur",
+    "details": {
+      "portefeuille": {},
+      "filtre_bitcoin_positif": false,
+      "btc_vs_moyenne_100j_pct": -1.65
+    },
     "valeur_usd": 1000.0,
     "mise_en_service": null
   },
@@ -63,6 +134,60 @@
       "AVAX": "Votes des 3 robots : dehors, dehors, dehors → DEHORS (inchangé depuis hier)."
     },
     "execution": "simulateur",
+    "details": {
+      "cryptos": [
+        {
+          "symbole": "XRP",
+          "signal": "DEHORS",
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "prix": 1.1603
+        },
+        {
+          "symbole": "XLM",
+          "signal": "DEHORS",
+          "votes": [
+            0,
+            0,
+            1
+          ],
+          "prix": 0.1524
+        },
+        {
+          "symbole": "SOL",
+          "signal": "DEHORS",
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "prix": 90.06
+        },
+        {
+          "symbole": "DOT",
+          "signal": "DEHORS",
+          "votes": [
+            1,
+            0,
+            0
+          ],
+          "prix": 0.904
+        },
+        {
+          "symbole": "AVAX",
+          "signal": "DEHORS",
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "prix": 8.307
+        }
+      ]
+    },
     "valeur_usd": 1000.0,
     "mise_en_service": null
   },
@@ -89,6 +214,90 @@
       "AVAX": "Votes des 3 robots : vendre, vendre, vendre → VENDRE (pari à la baisse) (inchangé depuis hier). Pari à la baisse : gagne si le prix baisse (fictif, impossible au comptant)."
     },
     "execution": "simulateur",
+    "details": {
+      "cryptos": [
+        {
+          "symbole": "ETH",
+          "signal": "ACHETER",
+          "votes": [
+            -1,
+            1,
+            1
+          ],
+          "prix": 2245.11
+        },
+        {
+          "symbole": "XRP",
+          "signal": "DEHORS",
+          "votes": [
+            0,
+            0,
+            0
+          ],
+          "prix": 1.1603
+        },
+        {
+          "symbole": "ADA",
+          "signal": "VENDRE",
+          "votes": [
+            -1,
+            -1,
+            -1
+          ],
+          "prix": 0.1843
+        },
+        {
+          "symbole": "DOGE",
+          "signal": "VENDRE",
+          "votes": [
+            0,
+            -1,
+            -1
+          ],
+          "prix": 0.072
+        },
+        {
+          "symbole": "SOL",
+          "signal": "VENDRE",
+          "votes": [
+            -1,
+            -1,
+            -1
+          ],
+          "prix": 90.06
+        },
+        {
+          "symbole": "LTC",
+          "signal": "VENDRE",
+          "votes": [
+            -1,
+            -1,
+            -1
+          ],
+          "prix": 52.32
+        },
+        {
+          "symbole": "DOT",
+          "signal": "VENDRE",
+          "votes": [
+            -1,
+            -1,
+            -1
+          ],
+          "prix": 0.904
+        },
+        {
+          "symbole": "AVAX",
+          "signal": "VENDRE",
+          "votes": [
+            -1,
+            -1,
+            -1
+          ],
+          "prix": 8.307
+        }
+      ]
+    },
     "valeur_usd": 997.2875,
     "mise_en_service": null
   },
