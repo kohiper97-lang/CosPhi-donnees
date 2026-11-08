@@ -45,8 +45,20 @@
     "historique": false,
     "execution": "simulateur",
     "heure_decision_utc": "00:30",
-    "mise_en_service": null,
-    "suivi": null,
+    "mise_en_service": "2026-11-08",
+    "suivi": {
+      "mise_en_service": "2026-11-08",
+      "derniere_date": "2026-11-08",
+      "jours": 0,
+      "capital_depart_usd": 1000.0,
+      "theorique_final_usd": 1000.0,
+      "gain_usd": 0.0,
+      "gain_pct": 0.0,
+      "plus_forte_baisse_usd": 0.0,
+      "meilleur_jour_usd": 0.0,
+      "pire_jour_usd": 0.0,
+      "source": "simulateur_interne"
+    },
     "options": [
       {
         "id": "parts_egales",
@@ -93,8 +105,20 @@
         "historique": false,
         "execution": "simulateur",
         "heure_decision_utc": "00:30",
-        "mise_en_service": null,
-        "suivi": null
+        "mise_en_service": "2026-11-08",
+        "suivi": {
+          "mise_en_service": "2026-11-08",
+          "derniere_date": "2026-11-08",
+          "jours": 0,
+          "capital_depart_usd": 1000.0,
+          "theorique_final_usd": 1000.0,
+          "gain_usd": 0.0,
+          "gain_pct": 0.0,
+          "plus_forte_baisse_usd": 0.0,
+          "meilleur_jour_usd": 0.0,
+          "pire_jour_usd": 0.0,
+          "source": "simulateur_interne"
+        }
       },
       {
         "id": "parts_rentabilite",
@@ -141,8 +165,20 @@
         "historique": false,
         "execution": "simulateur",
         "heure_decision_utc": "00:30",
-        "mise_en_service": null,
-        "suivi": null
+        "mise_en_service": "2026-11-08",
+        "suivi": {
+          "mise_en_service": "2026-11-08",
+          "derniere_date": "2026-11-08",
+          "jours": 0,
+          "capital_depart_usd": 1000.0,
+          "theorique_final_usd": 1000.0,
+          "gain_usd": 0.0,
+          "gain_pct": 0.0,
+          "plus_forte_baisse_usd": 0.0,
+          "meilleur_jour_usd": 0.0,
+          "pire_jour_usd": 0.0,
+          "source": "simulateur_interne"
+        }
       }
     ]
   },
@@ -181,8 +217,20 @@
     "historique": false,
     "execution": "simulateur",
     "heure_decision_utc": "04:05",
-    "mise_en_service": null,
-    "suivi": null,
+    "mise_en_service": "2026-11-08",
+    "suivi": {
+      "mise_en_service": "2026-11-08",
+      "derniere_date": "2026-11-08",
+      "jours": 0,
+      "capital_depart_usd": 1000.0,
+      "theorique_final_usd": 1000.0,
+      "gain_usd": 0.0,
+      "gain_pct": 0.0,
+      "plus_forte_baisse_usd": 0.0,
+      "meilleur_jour_usd": 0.0,
+      "pire_jour_usd": 0.0,
+      "source": "simulateur_interne"
+    },
     "options": [
       {
         "id": "achat_seul",
@@ -218,8 +266,20 @@
         "historique": false,
         "execution": "simulateur",
         "heure_decision_utc": "04:05",
-        "mise_en_service": null,
-        "suivi": null
+        "mise_en_service": "2026-11-08",
+        "suivi": {
+          "mise_en_service": "2026-11-08",
+          "derniere_date": "2026-11-08",
+          "jours": 0,
+          "capital_depart_usd": 1000.0,
+          "theorique_final_usd": 1000.0,
+          "gain_usd": 0.0,
+          "gain_pct": 0.0,
+          "plus_forte_baisse_usd": 0.0,
+          "meilleur_jour_usd": 0.0,
+          "pire_jour_usd": 0.0,
+          "source": "simulateur_interne"
+        }
       },
       {
         "id": "achat_vente",
@@ -258,8 +318,20 @@
         "historique": false,
         "execution": "simulateur",
         "heure_decision_utc": "04:05",
-        "mise_en_service": null,
-        "suivi": null
+        "mise_en_service": "2026-11-08",
+        "suivi": {
+          "mise_en_service": "2026-11-08",
+          "derniere_date": "2026-11-08",
+          "jours": 0,
+          "capital_depart_usd": 1000.0,
+          "theorique_final_usd": 996.9,
+          "gain_usd": -3.1,
+          "gain_pct": -0.31,
+          "plus_forte_baisse_usd": 0.0,
+          "meilleur_jour_usd": 0.0,
+          "pire_jour_usd": 0.0,
+          "source": "simulateur_interne"
+        }
       }
     ]
   },
@@ -328,8 +400,8 @@
     "heure_decision_utc": "00:15",
     "suivi": {
       "mise_en_service": "2026-10-27",
-      "derniere_date": "2026-11-06",
-      "jours": 10,
+      "derniere_date": "2026-11-07",
+      "jours": 11,
       "capital_depart_usd": 1000.0,
       "theorique_final_usd": 979.93,
       "gain_usd": -20.07,
@@ -339,7 +411,7 @@
       "pire_jour_usd": -10.17,
       "reel_final_usd": 982.33,
       "gain_reel_usd": -17.67,
-      "reel_derniere_date": "2026-11-06"
+      "reel_derniere_date": "2026-11-07"
     },
     "options": [
       {
@@ -394,8 +466,8 @@
         "mise_en_service": "2026-10-27",
         "suivi": {
           "mise_en_service": "2026-10-27",
-          "derniere_date": "2026-11-06",
-          "jours": 10,
+          "derniere_date": "2026-11-07",
+          "jours": 11,
           "capital_depart_usd": 1000.0,
           "theorique_final_usd": 979.93,
           "gain_usd": -20.07,
@@ -405,7 +477,7 @@
           "pire_jour_usd": -10.17,
           "reel_final_usd": 982.33,
           "gain_reel_usd": -17.67,
-          "reel_derniere_date": "2026-11-06"
+          "reel_derniere_date": "2026-11-07"
         }
       }
     ]
