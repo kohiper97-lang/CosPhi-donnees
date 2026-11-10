@@ -17,3 +17,7 @@ horodatage,modele,symbole,cote,quantite,prix,montant_usd,frais_usd,lieu,statut,i
 2026-11-08T11:26:18+00:00,crypto_v2_achat_vente,ETH,achat,0.055779666,2240.96,125,0.3875,simulateur,execute,sim-42bd1eecf9e6
 2026-11-09T13:05:55+00:00,crypto_v2_achat_vente,XRP,vente,6.847157384,1.1032,7.5538,0.0234,simulateur,execute,sim-9a5981cdb7a9
 2026-11-09T13:05:55+00:00,crypto_v2_achat_vente,ETH,achat,0.003471165,2123.88,7.3723,0.0229,simulateur,execute,sim-030c228a7f09
+2026-11-10T12:49:52+00:00,crypto_v2_achat_vente,DOGE,vente,72.010239238,0.06946,5.0018,0.0155,simulateur,execute,sim-b27aa7e15896
+2026-11-10T12:49:52+00:00,crypto_v2_achat_vente,DOT,vente,9.741715326,0.856,8.3389,0.0259,simulateur,execute,sim-1099580d196a
+2026-11-10T12:49:52+00:00,crypto_v2_achat_vente,ETH,vente,0.119860915,2094.77,251.081,0.7784,simulateur,execute,sim-9a88b5c03226
+2026-11-10T12:49:52+00:00,crypto_v2_achat_vente,SOL,vente,0.1006367,84.92,8.5461,0.0265,simulateur,execute,sim-318a83b9bb37
