@@ -1,11 +1,11 @@
 {
   "regle_50j": {
     "debut": "2018-03-01",
-    "fin": "2026-11-12",
+    "fin": "2026-11-13",
     "final_usd": 23328.77,
-    "garder_final_usd": 10449.84,
+    "garder_final_usd": 10071.31,
     "pire_baisse_pct": -55.06,
-    "croissance_annuelle_pct": 43.62,
+    "croissance_annuelle_pct": 43.6,
     "frais_par_ordre": 0.0031
   }
 }
