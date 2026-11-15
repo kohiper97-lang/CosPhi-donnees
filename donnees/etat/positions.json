@@ -9,7 +9,7 @@
     "type": "simulateur_interne",
     "mise_en_service": "2026-11-08",
     "capital_depart_usd": 1000.0,
-    "dernier_passage": "2026-11-14"
+    "dernier_passage": "2026-11-15"
   },
   "classement_v5": {
     "cash_usd": 1000.0,
@@ -17,60 +17,60 @@
     "type": "simulateur_interne",
     "mise_en_service": "2026-11-08",
     "capital_depart_usd": 1000.0,
-    "dernier_passage": "2026-11-14"
+    "dernier_passage": "2026-11-15"
   },
   "crypto_v2_achat_seul": {
-    "cash_usd": 795.0506566500875,
+    "cash_usd": 784.8685920064885,
     "positions": {
       "XLM": {
-        "quantite": 1339.6286315655948,
+        "quantite": 1412.7070893802,
         "lieu": "simulateur"
       }
     },
     "type": "simulateur_interne",
     "mise_en_service": "2026-11-08",
     "capital_depart_usd": 1000.0,
-    "dernier_passage": "2026-11-14"
+    "dernier_passage": "2026-11-15"
   },
   "crypto_v2_achat_vente": {
-    "cash_usd": 2178.24336846977,
+    "cash_usd": 2310.257217771603,
     "positions": {
       "ADA": {
-        "quantite": -832.7674673067004,
+        "quantite": -934.1315221954171,
         "lieu": "simulateur"
       },
       "AVAX": {
-        "quantite": -16.930798421368507,
+        "quantite": -20.052309543378435,
         "lieu": "simulateur"
       },
       "DOGE": {
-        "quantite": -2158.8311543466866,
+        "quantite": -2451.0647204923876,
         "lieu": "simulateur"
       },
       "DOT": {
-        "quantite": -172.56968428979155,
+        "quantite": -196.2183876785482,
         "lieu": "simulateur"
       },
       "LTC": {
-        "quantite": -2.814915875638733,
+        "quantite": -3.195060471933882,
         "lieu": "simulateur"
       },
       "SOL": {
-        "quantite": -1.7917815621087714,
+        "quantite": -2.0032838581136287,
         "lieu": "simulateur"
       },
       "XRP": {
-        "quantite": -137.29704638967988,
+        "quantite": -150.2775580972024,
         "lieu": "simulateur"
       },
       "ETH": {
-        "quantite": -0.07128216075673022,
+        "quantite": -0.07938736619029402,
         "lieu": "simulateur"
       }
     },
     "type": "simulateur_interne",
     "mise_en_service": "2026-11-08",
     "capital_depart_usd": 1000.0,
-    "dernier_passage": "2026-11-14"
+    "dernier_passage": "2026-11-15"
   }
 }
