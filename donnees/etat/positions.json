@@ -9,7 +9,7 @@
     "type": "simulateur_interne",
     "mise_en_service": "2026-11-08",
     "capital_depart_usd": 1000.0,
-    "dernier_passage": "2026-11-15"
+    "dernier_passage": "2026-11-16"
   },
   "classement_v5": {
     "cash_usd": 1000.0,
@@ -17,7 +17,7 @@
     "type": "simulateur_interne",
     "mise_en_service": "2026-11-08",
     "capital_depart_usd": 1000.0,
-    "dernier_passage": "2026-11-15"
+    "dernier_passage": "2026-11-16"
   },
   "crypto_v2_achat_seul": {
     "cash_usd": 784.8685920064885,
@@ -30,13 +30,13 @@
     "type": "simulateur_interne",
     "mise_en_service": "2026-11-08",
     "capital_depart_usd": 1000.0,
-    "dernier_passage": "2026-11-15"
+    "dernier_passage": "2026-11-16"
   },
   "crypto_v2_achat_vente": {
-    "cash_usd": 2310.257217771603,
+    "cash_usd": 2327.0963962999126,
     "positions": {
       "ADA": {
-        "quantite": -934.1315221954171,
+        "quantite": -973.6427725647138,
         "lieu": "simulateur"
       },
       "AVAX": {
@@ -52,11 +52,11 @@
         "lieu": "simulateur"
       },
       "LTC": {
-        "quantite": -3.195060471933882,
+        "quantite": -3.320337632355469,
         "lieu": "simulateur"
       },
       "SOL": {
-        "quantite": -2.0032838581136287,
+        "quantite": -2.079678896639644,
         "lieu": "simulateur"
       },
       "XRP": {
@@ -71,6 +71,6 @@
     "type": "simulateur_interne",
     "mise_en_service": "2026-11-08",
     "capital_depart_usd": 1000.0,
-    "dernier_passage": "2026-11-15"
+    "dernier_passage": "2026-11-16"
   }
 }
