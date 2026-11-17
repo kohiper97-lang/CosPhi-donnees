@@ -57,3 +57,7 @@ horodatage,modele,symbole,cote,quantite,prix,montant_usd,frais_usd,lieu,statut,i
 2026-11-16T12:58:42+00:00,crypto_v2_achat_vente,ADA,vente,39.511250369,0.1508,5.9583,0.0185,simulateur,execute,sim-772e4e001724
 2026-11-16T12:58:42+00:00,crypto_v2_achat_vente,LTC,vente,0.12527716,44.22,5.5398,0.0172,simulateur,execute,sim-842704b47abc
 2026-11-16T12:58:42+00:00,crypto_v2_achat_vente,SOL,vente,0.076395039,70.6,5.3935,0.0167,simulateur,execute,sim-2b5b3b265da2
+2026-11-17T13:40:08+00:00,crypto_v2_achat_seul,XLM,vente,1412.70708938,0.14,197.779,0.6131,simulateur,execute,sim-db3121890618
+2026-11-17T13:40:08+00:00,crypto_v2_achat_vente,ADA,achat,40.246587103,0.154,6.198,0.0192,simulateur,execute,sim-1bed453fdf8f
+2026-11-17T13:40:08+00:00,crypto_v2_achat_vente,LTC,achat,0.125338465,44.99,5.639,0.0175,simulateur,execute,sim-21269aeea2fd
+2026-11-17T13:40:08+00:00,crypto_v2_achat_vente,SOL,achat,0.121593996,73.41,8.9262,0.0277,simulateur,execute,sim-a8ebb87c00ca
