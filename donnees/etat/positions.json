@@ -9,7 +9,7 @@
     "type": "simulateur_interne",
     "mise_en_service": "2026-11-08",
     "capital_depart_usd": 1000.0,
-    "dernier_passage": "2026-11-18"
+    "dernier_passage": "2026-11-19"
   },
   "classement_v5": {
     "cash_usd": 1000.0,
@@ -17,7 +17,7 @@
     "type": "simulateur_interne",
     "mise_en_service": "2026-11-08",
     "capital_depart_usd": 1000.0,
-    "dernier_passage": "2026-11-18"
+    "dernier_passage": "2026-11-19"
   },
   "crypto_v2_achat_seul": {
     "cash_usd": 982.0344696429255,
@@ -25,7 +25,7 @@
     "type": "simulateur_interne",
     "mise_en_service": "2026-11-08",
     "capital_depart_usd": 1000.0,
-    "dernier_passage": "2026-11-18"
+    "dernier_passage": "2026-11-19"
   },
   "crypto_v2_achat_vente": {
     "cash_usd": 2306.2688633078774,
@@ -66,6 +66,6 @@
     "type": "simulateur_interne",
     "mise_en_service": "2026-11-08",
     "capital_depart_usd": 1000.0,
-    "dernier_passage": "2026-11-18"
+    "dernier_passage": "2026-11-19"
   }
 }
