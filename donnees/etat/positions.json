@@ -9,7 +9,7 @@
     "type": "simulateur_interne",
     "mise_en_service": "2026-11-08",
     "capital_depart_usd": 1000.0,
-    "dernier_passage": "2026-11-20"
+    "dernier_passage": "2026-11-21"
   },
   "classement_v5": {
     "cash_usd": 1000.0,
@@ -17,55 +17,64 @@
     "type": "simulateur_interne",
     "mise_en_service": "2026-11-08",
     "capital_depart_usd": 1000.0,
-    "dernier_passage": "2026-11-20"
+    "dernier_passage": "2026-11-21"
   },
   "crypto_v2_achat_seul": {
-    "cash_usd": 982.0344696429255,
-    "positions": {},
-    "type": "simulateur_interne",
-    "mise_en_service": "2026-11-08",
-    "capital_depart_usd": 1000.0,
-    "dernier_passage": "2026-11-20"
-  },
-  "crypto_v2_achat_vente": {
-    "cash_usd": 2417.204522447261,
+    "cash_usd": 588.002959043398,
     "positions": {
-      "ADA": {
-        "quantite": -1032.787718898427,
-        "lieu": "simulateur"
-      },
-      "AVAX": {
-        "quantite": -22.236474359799843,
-        "lieu": "simulateur"
-      },
-      "DOGE": {
-        "quantite": -2675.7011382121464,
-        "lieu": "simulateur"
-      },
-      "DOT": {
-        "quantite": -219.29875656725682,
-        "lieu": "simulateur"
-      },
-      "LTC": {
-        "quantite": -3.6514461883721587,
-        "lieu": "simulateur"
-      },
-      "SOL": {
-        "quantite": -2.1290241408318997,
+      "XLM": {
+        "quantite": 1552.623667419645,
         "lieu": "simulateur"
       },
       "XRP": {
-        "quantite": -159.8231894170086,
-        "lieu": "simulateur"
-      },
-      "ETH": {
-        "quantite": -0.08702882970840409,
+        "quantite": 216.83251703310344,
         "lieu": "simulateur"
       }
     },
     "type": "simulateur_interne",
     "mise_en_service": "2026-11-08",
     "capital_depart_usd": 1000.0,
-    "dernier_passage": "2026-11-20"
+    "dernier_passage": "2026-11-21"
+  },
+  "crypto_v2_achat_vente": {
+    "cash_usd": 1886.7567844454306,
+    "positions": {
+      "ADA": {
+        "quantite": 1114.7736628829016,
+        "lieu": "simulateur"
+      },
+      "AVAX": {
+        "quantite": -24.18654597404206,
+        "lieu": "simulateur"
+      },
+      "DOGE": {
+        "quantite": -2910.0765612694718,
+        "lieu": "simulateur"
+      },
+      "DOT": {
+        "quantite": -243.2859987620799,
+        "lieu": "simulateur"
+      },
+      "LTC": {
+        "quantite": -3.9971061756999924,
+        "lieu": "simulateur"
+      },
+      "SOL": {
+        "quantite": -2.273339705359124,
+        "lieu": "simulateur"
+      },
+      "XRP": {
+        "quantite": 173.77571340148566,
+        "lieu": "simulateur"
+      },
+      "ETH": {
+        "quantite": -0.0945915659285517,
+        "lieu": "simulateur"
+      }
+    },
+    "type": "simulateur_interne",
+    "mise_en_service": "2026-11-08",
+    "capital_depart_usd": 1000.0,
+    "dernier_passage": "2026-11-21"
   }
 }
