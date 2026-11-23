@@ -1,8 +1,8 @@
 {
   "classement_v4": {
     "mise_en_service": "2026-11-08",
-    "derniere_date": "2026-11-22",
-    "jours": 14,
+    "derniere_date": "2026-11-23",
+    "jours": 15,
     "capital_depart_usd": 1000.0,
     "theorique_final_usd": 1000.0,
     "gain_usd": 0.0,
@@ -14,8 +14,8 @@
   },
   "classement_v5": {
     "mise_en_service": "2026-11-08",
-    "derniere_date": "2026-11-22",
-    "jours": 14,
+    "derniere_date": "2026-11-23",
+    "jours": 15,
     "capital_depart_usd": 1000.0,
     "theorique_final_usd": 1000.0,
     "gain_usd": 0.0,
@@ -27,34 +27,34 @@
   },
   "crypto_v2_achat_seul": {
     "mise_en_service": "2026-11-08",
-    "derniere_date": "2026-11-22",
-    "jours": 14,
+    "derniere_date": "2026-11-23",
+    "jours": 15,
     "capital_depart_usd": 1000.0,
-    "theorique_final_usd": 987.69,
-    "gain_usd": -12.31,
-    "gain_pct": -1.23,
+    "theorique_final_usd": 1002.38,
+    "gain_usd": 2.38,
+    "gain_pct": 0.24,
     "plus_forte_baisse_usd": -21.73,
-    "meilleur_jour_usd": 6.88,
+    "meilleur_jour_usd": 14.68,
     "pire_jour_usd": -7.0,
     "source": "simulateur_interne"
   },
   "crypto_v2_achat_vente": {
     "mise_en_service": "2026-11-08",
-    "derniere_date": "2026-11-22",
-    "jours": 14,
+    "derniere_date": "2026-11-23",
+    "jours": 15,
     "capital_depart_usd": 1000.0,
-    "theorique_final_usd": 1246.17,
-    "gain_usd": 246.17,
-    "gain_pct": 24.62,
-    "plus_forte_baisse_usd": -25.01,
+    "theorique_final_usd": 1199.84,
+    "gain_usd": 199.84,
+    "gain_pct": 19.98,
+    "plus_forte_baisse_usd": -57.29,
     "meilleur_jour_usd": 65.94,
-    "pire_jour_usd": -24.67,
+    "pire_jour_usd": -46.33,
     "source": "simulateur_interne"
   },
   "regle_50j": {
     "mise_en_service": "2026-10-27",
-    "derniere_date": "2026-11-21",
-    "jours": 25,
+    "derniere_date": "2026-11-22",
+    "jours": 26,
     "capital_depart_usd": 1000.0,
     "theorique_final_usd": 979.93,
     "gain_usd": -20.07,
@@ -64,6 +64,6 @@
     "pire_jour_usd": -10.17,
     "reel_final_usd": 982.33,
     "gain_reel_usd": -17.67,
-    "reel_derniere_date": "2026-11-21"
+    "reel_derniere_date": "2026-11-22"
   }
 }
