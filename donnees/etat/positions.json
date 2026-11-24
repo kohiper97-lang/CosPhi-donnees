@@ -9,7 +9,7 @@
     "type": "simulateur_interne",
     "mise_en_service": "2026-11-08",
     "capital_depart_usd": 1000.0,
-    "dernier_passage": "2026-11-23"
+    "dernier_passage": "2026-11-24"
   },
   "classement_v5": {
     "cash_usd": 1000.0,
@@ -17,7 +17,7 @@
     "type": "simulateur_interne",
     "mise_en_service": "2026-11-08",
     "capital_depart_usd": 1000.0,
-    "dernier_passage": "2026-11-23"
+    "dernier_passage": "2026-11-24"
   },
   "crypto_v2_achat_seul": {
     "cash_usd": 1002.3756422774013,
@@ -25,47 +25,47 @@
     "type": "simulateur_interne",
     "mise_en_service": "2026-11-08",
     "capital_depart_usd": 1000.0,
-    "dernier_passage": "2026-11-23"
+    "dernier_passage": "2026-11-24"
   },
   "crypto_v2_achat_vente": {
-    "cash_usd": 2100.772889304508,
+    "cash_usd": 2203.5059739102367,
     "positions": {
       "ADA": {
-        "quantite": -975.0307985882371,
+        "quantite": -1089.4420408847684,
         "lieu": "simulateur"
       },
       "AVAX": {
-        "quantite": -21.353063564076866,
+        "quantite": -23.924677037667024,
         "lieu": "simulateur"
       },
       "DOGE": {
-        "quantite": -2541.11936000319,
+        "quantite": -2854.4764262529293,
         "lieu": "simulateur"
       },
       "DOT": {
-        "quantite": -211.18810546074334,
+        "quantite": -239.61092071209896,
         "lieu": "simulateur"
       },
       "LTC": {
-        "quantite": -3.47660900631138,
+        "quantite": -3.880314885576757,
         "lieu": "simulateur"
       },
       "SOL": {
-        "quantite": -1.9587104485075466,
+        "quantite": -2.258599353053788,
         "lieu": "simulateur"
       },
       "XRP": {
-        "quantite": 150.95480344082486,
+        "quantite": 171.20649799657318,
         "lieu": "simulateur"
       },
       "ETH": {
-        "quantite": -0.08423497701778247,
+        "quantite": -0.09317201893209026,
         "lieu": "simulateur"
       }
     },
     "type": "simulateur_interne",
     "mise_en_service": "2026-11-08",
     "capital_depart_usd": 1000.0,
-    "dernier_passage": "2026-11-23"
+    "dernier_passage": "2026-11-24"
   }
 }
