@@ -48,8 +48,8 @@
     "mise_en_service": "2026-11-08",
     "suivi": {
       "mise_en_service": "2026-11-08",
-      "derniere_date": "2026-11-26",
-      "jours": 18,
+      "derniere_date": "2026-11-27",
+      "jours": 19,
       "capital_depart_usd": 1000.0,
       "theorique_final_usd": 1000.0,
       "gain_usd": 0.0,
@@ -108,8 +108,8 @@
         "mise_en_service": "2026-11-08",
         "suivi": {
           "mise_en_service": "2026-11-08",
-          "derniere_date": "2026-11-26",
-          "jours": 18,
+          "derniere_date": "2026-11-27",
+          "jours": 19,
           "capital_depart_usd": 1000.0,
           "theorique_final_usd": 1000.0,
           "gain_usd": 0.0,
@@ -168,8 +168,8 @@
         "mise_en_service": "2026-11-08",
         "suivi": {
           "mise_en_service": "2026-11-08",
-          "derniere_date": "2026-11-26",
-          "jours": 18,
+          "derniere_date": "2026-11-27",
+          "jours": 19,
           "capital_depart_usd": 1000.0,
           "theorique_final_usd": 1000.0,
           "gain_usd": 0.0,
@@ -220,12 +220,12 @@
     "mise_en_service": "2026-11-08",
     "suivi": {
       "mise_en_service": "2026-11-08",
-      "derniere_date": "2026-11-26",
-      "jours": 18,
+      "derniere_date": "2026-11-27",
+      "jours": 19,
       "capital_depart_usd": 1000.0,
-      "theorique_final_usd": 1012.63,
-      "gain_usd": 12.63,
-      "gain_pct": 1.26,
+      "theorique_final_usd": 1016.32,
+      "gain_usd": 16.32,
+      "gain_pct": 1.63,
       "plus_forte_baisse_usd": -21.73,
       "meilleur_jour_usd": 14.68,
       "pire_jour_usd": -7.0,
@@ -269,12 +269,12 @@
         "mise_en_service": "2026-11-08",
         "suivi": {
           "mise_en_service": "2026-11-08",
-          "derniere_date": "2026-11-26",
-          "jours": 18,
+          "derniere_date": "2026-11-27",
+          "jours": 19,
           "capital_depart_usd": 1000.0,
-          "theorique_final_usd": 1012.63,
-          "gain_usd": 12.63,
-          "gain_pct": 1.26,
+          "theorique_final_usd": 1016.32,
+          "gain_usd": 16.32,
+          "gain_pct": 1.63,
           "plus_forte_baisse_usd": -21.73,
           "meilleur_jour_usd": 14.68,
           "pire_jour_usd": -7.0,
@@ -321,13 +321,13 @@
         "mise_en_service": "2026-11-08",
         "suivi": {
           "mise_en_service": "2026-11-08",
-          "derniere_date": "2026-11-26",
-          "jours": 18,
+          "derniere_date": "2026-11-27",
+          "jours": 19,
           "capital_depart_usd": 1000.0,
-          "theorique_final_usd": 1225.76,
-          "gain_usd": 225.76,
-          "gain_pct": 22.58,
-          "plus_forte_baisse_usd": -76.79,
+          "theorique_final_usd": 1204.0,
+          "gain_usd": 204.0,
+          "gain_pct": 20.4,
+          "plus_forte_baisse_usd": -98.55,
           "meilleur_jour_usd": 65.94,
           "pire_jour_usd": -76.79,
           "source": "simulateur_interne"
@@ -400,8 +400,8 @@
     "heure_decision_utc": "00:15",
     "suivi": {
       "mise_en_service": "2026-10-27",
-      "derniere_date": "2026-11-25",
-      "jours": 29,
+      "derniere_date": "2026-11-26",
+      "jours": 30,
       "capital_depart_usd": 1000.0,
       "theorique_final_usd": 979.93,
       "gain_usd": -20.07,
@@ -411,7 +411,7 @@
       "pire_jour_usd": -10.17,
       "reel_final_usd": 982.33,
       "gain_reel_usd": -17.67,
-      "reel_derniere_date": "2026-11-25"
+      "reel_derniere_date": "2026-11-26"
     },
     "options": [
       {
@@ -466,8 +466,8 @@
         "mise_en_service": "2026-10-27",
         "suivi": {
           "mise_en_service": "2026-10-27",
-          "derniere_date": "2026-11-25",
-          "jours": 29,
+          "derniere_date": "2026-11-26",
+          "jours": 30,
           "capital_depart_usd": 1000.0,
           "theorique_final_usd": 979.93,
           "gain_usd": -20.07,
@@ -477,7 +477,7 @@
           "pire_jour_usd": -10.17,
           "reel_final_usd": 982.33,
           "gain_reel_usd": -17.67,
-          "reel_derniere_date": "2026-11-25"
+          "reel_derniere_date": "2026-11-26"
         }
       }
     ]

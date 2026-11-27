@@ -9,7 +9,7 @@
     "type": "simulateur_interne",
     "mise_en_service": "2026-11-08",
     "capital_depart_usd": 1000.0,
-    "dernier_passage": "2026-11-26"
+    "dernier_passage": "2026-11-27"
   },
   "classement_v5": {
     "cash_usd": 1000.0,
@@ -17,7 +17,7 @@
     "type": "simulateur_interne",
     "mise_en_service": "2026-11-08",
     "capital_depart_usd": 1000.0,
-    "dernier_passage": "2026-11-26"
+    "dernier_passage": "2026-11-27"
   },
   "crypto_v2_achat_seul": {
     "cash_usd": 809.8476465711773,
@@ -30,37 +30,37 @@
     "type": "simulateur_interne",
     "mise_en_service": "2026-11-08",
     "capital_depart_usd": 1000.0,
-    "dernier_passage": "2026-11-26"
+    "dernier_passage": "2026-11-27"
   },
   "crypto_v2_achat_vente": {
-    "cash_usd": 2145.4872060312714,
+    "cash_usd": 2111.6189495855187,
     "positions": {
       "ADA": {
-        "quantite": -1028.0859728483895,
+        "quantite": -985.0592347313415,
         "lieu": "simulateur"
       },
       "AVAX": {
-        "quantite": -23.113332109724805,
+        "quantite": -22.177258150427136,
         "lieu": "simulateur"
       },
       "DOGE": {
-        "quantite": -2693.509375359249,
+        "quantite": -2550.2719597924256,
         "lieu": "simulateur"
       },
       "DOT": {
-        "quantite": -228.44652541236195,
+        "quantite": -220.37635588133082,
         "lieu": "simulateur"
       },
       "LTC": {
-        "quantite": -3.5013160930035374,
+        "quantite": -3.386972346240976,
         "lieu": "simulateur"
       },
       "SOL": {
-        "quantite": -2.152613657515727,
+        "quantite": -2.052878492457024,
         "lieu": "simulateur"
       },
       "XRP": {
-        "quantite": 161.13488757667915,
+        "quantite": 155.39650120477904,
         "lieu": "simulateur"
       },
       "ETH": {
@@ -71,6 +71,6 @@
     "type": "simulateur_interne",
     "mise_en_service": "2026-11-08",
     "capital_depart_usd": 1000.0,
-    "dernier_passage": "2026-11-26"
+    "dernier_passage": "2026-11-27"
   }
 }
