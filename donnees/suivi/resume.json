@@ -1,8 +1,8 @@
 {
   "classement_v4": {
     "mise_en_service": "2026-11-08",
-    "derniere_date": "2026-11-27",
-    "jours": 19,
+    "derniere_date": "2026-11-28",
+    "jours": 20,
     "capital_depart_usd": 1000.0,
     "theorique_final_usd": 1000.0,
     "gain_usd": 0.0,
@@ -14,8 +14,8 @@
   },
   "classement_v5": {
     "mise_en_service": "2026-11-08",
-    "derniere_date": "2026-11-27",
-    "jours": 19,
+    "derniere_date": "2026-11-28",
+    "jours": 20,
     "capital_depart_usd": 1000.0,
     "theorique_final_usd": 1000.0,
     "gain_usd": 0.0,
@@ -27,12 +27,12 @@
   },
   "crypto_v2_achat_seul": {
     "mise_en_service": "2026-11-08",
-    "derniere_date": "2026-11-27",
-    "jours": 19,
+    "derniere_date": "2026-11-28",
+    "jours": 20,
     "capital_depart_usd": 1000.0,
-    "theorique_final_usd": 1016.32,
-    "gain_usd": 16.32,
-    "gain_pct": 1.63,
+    "theorique_final_usd": 1009.86,
+    "gain_usd": 9.86,
+    "gain_pct": 0.99,
     "plus_forte_baisse_usd": -21.73,
     "meilleur_jour_usd": 14.68,
     "pire_jour_usd": -7.0,
@@ -40,12 +40,12 @@
   },
   "crypto_v2_achat_vente": {
     "mise_en_service": "2026-11-08",
-    "derniere_date": "2026-11-27",
-    "jours": 19,
+    "derniere_date": "2026-11-28",
+    "jours": 20,
     "capital_depart_usd": 1000.0,
-    "theorique_final_usd": 1204.0,
-    "gain_usd": 204.0,
-    "gain_pct": 20.4,
+    "theorique_final_usd": 1241.3,
+    "gain_usd": 241.3,
+    "gain_pct": 24.13,
     "plus_forte_baisse_usd": -98.55,
     "meilleur_jour_usd": 65.94,
     "pire_jour_usd": -76.79,
@@ -53,8 +53,8 @@
   },
   "regle_50j": {
     "mise_en_service": "2026-10-27",
-    "derniere_date": "2026-11-26",
-    "jours": 30,
+    "derniere_date": "2026-11-27",
+    "jours": 31,
     "capital_depart_usd": 1000.0,
     "theorique_final_usd": 979.93,
     "gain_usd": -20.07,
@@ -64,6 +64,6 @@
     "pire_jour_usd": -10.17,
     "reel_final_usd": 982.33,
     "gain_reel_usd": -17.67,
-    "reel_derniere_date": "2026-11-26"
+    "reel_derniere_date": "2026-11-27"
   }
 }

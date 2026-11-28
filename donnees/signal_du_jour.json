@@ -1,24 +1,24 @@
 {
   "classement_v4": {
-    "date": "2026-11-26",
+    "date": "2026-11-27",
     "poids": {},
-    "explication": "Données du 2026-11-26 ; le Bitcoin est en dessous de sa moyenne des 100 jours (-21,9 %). Filtre Bitcoin négatif : tout reste en cash aujourd'hui.",
+    "explication": "Données du 2026-11-27 ; le Bitcoin est en dessous de sa moyenne des 100 jours (-22,6 %). Filtre Bitcoin négatif : tout reste en cash aujourd'hui.",
     "raisons": {
-      "BTC": "Classée 2e sur 15 par l'IA (score +0,0736), mais le Bitcoin est en dessous de sa moyenne des 100 jours (-21,9 %) : tout en cash.",
-      "ETH": "Classée 10e sur 15 par l'IA (score +0,0263), mais le Bitcoin est en dessous de sa moyenne des 100 jours (-21,9 %) : tout en cash.",
-      "BNB": "Classée 7e sur 15 par l'IA (score +0,0411), mais le Bitcoin est en dessous de sa moyenne des 100 jours (-21,9 %) : tout en cash.",
-      "XRP": "Classée 12e sur 15 par l'IA (score +0,0197), mais le Bitcoin est en dessous de sa moyenne des 100 jours (-21,9 %) : tout en cash.",
-      "ADA": "Classée 6e sur 15 par l'IA (score +0,0449), mais le Bitcoin est en dessous de sa moyenne des 100 jours (-21,9 %) : tout en cash.",
-      "DOGE": "Classée 11e sur 15 par l'IA (score +0,0206), mais le Bitcoin est en dessous de sa moyenne des 100 jours (-21,9 %) : tout en cash.",
-      "SOL": "Classée 8e sur 15 par l'IA (score +0,0286), mais le Bitcoin est en dessous de sa moyenne des 100 jours (-21,9 %) : tout en cash.",
-      "TRX": "Classée 1re sur 15 par l'IA (score +0,0860), mais le Bitcoin est en dessous de sa moyenne des 100 jours (-21,9 %) : tout en cash.",
-      "LTC": "Classée 14e sur 15 par l'IA (score +0,0086), mais le Bitcoin est en dessous de sa moyenne des 100 jours (-21,9 %) : tout en cash.",
-      "LINK": "Classée 13e sur 15 par l'IA (score +0,0115), mais le Bitcoin est en dessous de sa moyenne des 100 jours (-21,9 %) : tout en cash.",
-      "DOT": "Classée 4e sur 15 par l'IA (score +0,0627), mais le Bitcoin est en dessous de sa moyenne des 100 jours (-21,9 %) : tout en cash.",
-      "AVAX": "Classée 5e sur 15 par l'IA (score +0,0479), mais le Bitcoin est en dessous de sa moyenne des 100 jours (-21,9 %) : tout en cash.",
-      "BCH": "Classée 15e sur 15 par l'IA (score -0,0097), mais le Bitcoin est en dessous de sa moyenne des 100 jours (-21,9 %) : tout en cash.",
-      "XLM": "Classée 3e sur 15 par l'IA (score +0,0640), mais le Bitcoin est en dessous de sa moyenne des 100 jours (-21,9 %) : tout en cash.",
-      "ATOM": "Classée 9e sur 15 par l'IA (score +0,0264), mais le Bitcoin est en dessous de sa moyenne des 100 jours (-21,9 %) : tout en cash.",
+      "BTC": "Classée 2e sur 15 par l'IA (score +0,0648), mais le Bitcoin est en dessous de sa moyenne des 100 jours (-22,6 %) : tout en cash.",
+      "ETH": "Classée 13e sur 15 par l'IA (score +0,0086), mais le Bitcoin est en dessous de sa moyenne des 100 jours (-22,6 %) : tout en cash.",
+      "BNB": "Classée 4e sur 15 par l'IA (score +0,0533), mais le Bitcoin est en dessous de sa moyenne des 100 jours (-22,6 %) : tout en cash.",
+      "XRP": "Classée 6e sur 15 par l'IA (score +0,0435), mais le Bitcoin est en dessous de sa moyenne des 100 jours (-22,6 %) : tout en cash.",
+      "ADA": "Classée 7e sur 15 par l'IA (score +0,0374), mais le Bitcoin est en dessous de sa moyenne des 100 jours (-22,6 %) : tout en cash.",
+      "DOGE": "Classée 10e sur 15 par l'IA (score +0,0201), mais le Bitcoin est en dessous de sa moyenne des 100 jours (-22,6 %) : tout en cash.",
+      "SOL": "Classée 14e sur 15 par l'IA (score +0,0019), mais le Bitcoin est en dessous de sa moyenne des 100 jours (-22,6 %) : tout en cash.",
+      "TRX": "Classée 1re sur 15 par l'IA (score +0,1088), mais le Bitcoin est en dessous de sa moyenne des 100 jours (-22,6 %) : tout en cash.",
+      "LTC": "Classée 12e sur 15 par l'IA (score +0,0102), mais le Bitcoin est en dessous de sa moyenne des 100 jours (-22,6 %) : tout en cash.",
+      "LINK": "Classée 11e sur 15 par l'IA (score +0,0150), mais le Bitcoin est en dessous de sa moyenne des 100 jours (-22,6 %) : tout en cash.",
+      "DOT": "Classée 5e sur 15 par l'IA (score +0,0526), mais le Bitcoin est en dessous de sa moyenne des 100 jours (-22,6 %) : tout en cash.",
+      "AVAX": "Classée 8e sur 15 par l'IA (score +0,0292), mais le Bitcoin est en dessous de sa moyenne des 100 jours (-22,6 %) : tout en cash.",
+      "BCH": "Classée 15e sur 15 par l'IA (score +0,0015), mais le Bitcoin est en dessous de sa moyenne des 100 jours (-22,6 %) : tout en cash.",
+      "XLM": "Classée 3e sur 15 par l'IA (score +0,0628), mais le Bitcoin est en dessous de sa moyenne des 100 jours (-22,6 %) : tout en cash.",
+      "ATOM": "Classée 9e sur 15 par l'IA (score +0,0232), mais le Bitcoin est en dessous de sa moyenne des 100 jours (-22,6 %) : tout en cash.",
       "MATIC": "Pas de données récentes sur Binance : non classée aujourd'hui."
     },
     "execution": "simulateur",
@@ -26,108 +26,108 @@
       "classement": [
         {
           "symbole": "TRX",
-          "score": 0.086
+          "score": 0.1088
         },
         {
           "symbole": "BTC",
-          "score": 0.0736
+          "score": 0.0648
         },
         {
           "symbole": "XLM",
-          "score": 0.064
-        },
-        {
-          "symbole": "DOT",
-          "score": 0.0627
-        },
-        {
-          "symbole": "AVAX",
-          "score": 0.0479
-        },
-        {
-          "symbole": "ADA",
-          "score": 0.0449
+          "score": 0.0628
         },
         {
           "symbole": "BNB",
-          "score": 0.0411
+          "score": 0.0533
         },
         {
-          "symbole": "SOL",
-          "score": 0.0286
-        },
-        {
-          "symbole": "ATOM",
-          "score": 0.0264
-        },
-        {
-          "symbole": "ETH",
-          "score": 0.0263
-        },
-        {
-          "symbole": "DOGE",
-          "score": 0.0206
+          "symbole": "DOT",
+          "score": 0.0526
         },
         {
           "symbole": "XRP",
-          "score": 0.0197
+          "score": 0.0435
+        },
+        {
+          "symbole": "ADA",
+          "score": 0.0374
+        },
+        {
+          "symbole": "AVAX",
+          "score": 0.0292
+        },
+        {
+          "symbole": "ATOM",
+          "score": 0.0232
+        },
+        {
+          "symbole": "DOGE",
+          "score": 0.0201
         },
         {
           "symbole": "LINK",
-          "score": 0.0115
+          "score": 0.015
         },
         {
           "symbole": "LTC",
+          "score": 0.0102
+        },
+        {
+          "symbole": "ETH",
           "score": 0.0086
         },
         {
+          "symbole": "SOL",
+          "score": 0.0019
+        },
+        {
           "symbole": "BCH",
-          "score": -0.0097
+          "score": 0.0015
         }
       ],
       "filtre_bitcoin_positif": false,
-      "btc_vs_moyenne_100j_pct": -21.88
+      "btc_vs_moyenne_100j_pct": -22.62
     },
     "valeur_usd": 1000.0,
     "mise_en_service": "2026-11-08"
   },
   "classement_v5": {
-    "date": "2026-11-26",
+    "date": "2026-11-27",
     "poids": {},
-    "explication": "Données du 2026-11-26 ; le Bitcoin est en dessous de sa moyenne des 100 jours (-21,9 %). Filtre Bitcoin négatif : tout reste en cash aujourd'hui.",
+    "explication": "Données du 2026-11-27 ; le Bitcoin est en dessous de sa moyenne des 100 jours (-22,6 %). Filtre Bitcoin négatif : tout reste en cash aujourd'hui.",
     "raisons": {
-      "BTC": "Le bitcoin est en dessous de sa moyenne des 100 jours (-21,9 %) : tout en cash.",
-      "ETH": "Le bitcoin est en dessous de sa moyenne des 100 jours (-21,9 %) : tout en cash.",
-      "BNB": "Le bitcoin est en dessous de sa moyenne des 100 jours (-21,9 %) : tout en cash.",
-      "XRP": "Le bitcoin est en dessous de sa moyenne des 100 jours (-21,9 %) : tout en cash.",
-      "ADA": "Le bitcoin est en dessous de sa moyenne des 100 jours (-21,9 %) : tout en cash.",
-      "DOGE": "Le bitcoin est en dessous de sa moyenne des 100 jours (-21,9 %) : tout en cash.",
-      "SOL": "Le bitcoin est en dessous de sa moyenne des 100 jours (-21,9 %) : tout en cash.",
-      "TRX": "Le bitcoin est en dessous de sa moyenne des 100 jours (-21,9 %) : tout en cash.",
-      "LTC": "Le bitcoin est en dessous de sa moyenne des 100 jours (-21,9 %) : tout en cash.",
-      "LINK": "Le bitcoin est en dessous de sa moyenne des 100 jours (-21,9 %) : tout en cash.",
-      "DOT": "Le bitcoin est en dessous de sa moyenne des 100 jours (-21,9 %) : tout en cash.",
-      "AVAX": "Le bitcoin est en dessous de sa moyenne des 100 jours (-21,9 %) : tout en cash.",
-      "BCH": "Le bitcoin est en dessous de sa moyenne des 100 jours (-21,9 %) : tout en cash.",
-      "XLM": "Le bitcoin est en dessous de sa moyenne des 100 jours (-21,9 %) : tout en cash.",
-      "ATOM": "Le bitcoin est en dessous de sa moyenne des 100 jours (-21,9 %) : tout en cash.",
-      "MATIC": "Le bitcoin est en dessous de sa moyenne des 100 jours (-21,9 %) : tout en cash."
+      "BTC": "Le bitcoin est en dessous de sa moyenne des 100 jours (-22,6 %) : tout en cash.",
+      "ETH": "Le bitcoin est en dessous de sa moyenne des 100 jours (-22,6 %) : tout en cash.",
+      "BNB": "Le bitcoin est en dessous de sa moyenne des 100 jours (-22,6 %) : tout en cash.",
+      "XRP": "Le bitcoin est en dessous de sa moyenne des 100 jours (-22,6 %) : tout en cash.",
+      "ADA": "Le bitcoin est en dessous de sa moyenne des 100 jours (-22,6 %) : tout en cash.",
+      "DOGE": "Le bitcoin est en dessous de sa moyenne des 100 jours (-22,6 %) : tout en cash.",
+      "SOL": "Le bitcoin est en dessous de sa moyenne des 100 jours (-22,6 %) : tout en cash.",
+      "TRX": "Le bitcoin est en dessous de sa moyenne des 100 jours (-22,6 %) : tout en cash.",
+      "LTC": "Le bitcoin est en dessous de sa moyenne des 100 jours (-22,6 %) : tout en cash.",
+      "LINK": "Le bitcoin est en dessous de sa moyenne des 100 jours (-22,6 %) : tout en cash.",
+      "DOT": "Le bitcoin est en dessous de sa moyenne des 100 jours (-22,6 %) : tout en cash.",
+      "AVAX": "Le bitcoin est en dessous de sa moyenne des 100 jours (-22,6 %) : tout en cash.",
+      "BCH": "Le bitcoin est en dessous de sa moyenne des 100 jours (-22,6 %) : tout en cash.",
+      "XLM": "Le bitcoin est en dessous de sa moyenne des 100 jours (-22,6 %) : tout en cash.",
+      "ATOM": "Le bitcoin est en dessous de sa moyenne des 100 jours (-22,6 %) : tout en cash.",
+      "MATIC": "Le bitcoin est en dessous de sa moyenne des 100 jours (-22,6 %) : tout en cash."
     },
     "execution": "simulateur",
     "details": {
       "portefeuille": {},
       "filtre_bitcoin_positif": false,
-      "btc_vs_moyenne_100j_pct": -21.88
+      "btc_vs_moyenne_100j_pct": -22.62
     },
     "valeur_usd": 1000.0,
     "mise_en_service": "2026-11-08"
   },
   "crypto_v2_achat_seul": {
-    "date": "2026-11-26",
+    "date": "2026-11-27",
     "poids": {
       "XRP": 0.2
     },
-    "explication": "Vote des robots sur la bougie du 2026-11-27 00:00 UTC. ACHETER : XRP ; DEHORS : XLM, SOL, DOT, AVAX. Chaque position vaut 1/5 du capital.",
+    "explication": "Vote des robots sur la bougie du 2026-11-28 00:00 UTC. ACHETER : XRP ; DEHORS : XLM, SOL, DOT, AVAX. Chaque position vaut 1/5 du capital.",
     "raisons": {
       "XRP": "Votes des 3 robots : acheter, acheter, acheter → ACHETER (inchangé depuis hier).",
       "XLM": "Votes des 3 robots : dehors, dehors, acheter → DEHORS (inchangé depuis hier).",
@@ -146,7 +146,7 @@
             1,
             1
           ],
-          "prix": 0.9616
+          "prix": 0.9502
         },
         {
           "symbole": "XLM",
@@ -156,7 +156,7 @@
             0,
             1
           ],
-          "prix": 0.1282
+          "prix": 0.1261
         },
         {
           "symbole": "SOL",
@@ -166,7 +166,7 @@
             0,
             0
           ],
-          "prix": 72.75
+          "prix": 71.72
         },
         {
           "symbole": "DOT",
@@ -176,7 +176,7 @@
             0,
             0
           ],
-          "prix": 0.688
+          "prix": 0.662
         },
         {
           "symbole": "AVAX",
@@ -186,17 +186,17 @@
             0,
             0
           ],
-          "prix": 6.731
+          "prix": 6.606
         }
       ]
     },
-    "valeur_usd": 1016.3193,
+    "valeur_usd": 1009.8604,
     "mise_en_service": "2026-11-08"
   },
   "crypto_v2_achat_vente": {
-    "date": "2026-11-26",
+    "date": "2026-11-27",
     "poids": {
-      "ETH": -0.125,
+      "ETH": 0.125,
       "XRP": 0.125,
       "ADA": -0.125,
       "DOGE": -0.125,
@@ -205,11 +205,11 @@
       "DOT": -0.125,
       "AVAX": -0.125
     },
-    "explication": "Vote des robots sur la bougie du 2026-11-27 00:00 UTC. ACHETER : XRP ; VENDRE (pari à la baisse) : ETH, ADA, DOGE, SOL, LTC, DOT, AVAX. Chaque position vaut 1/8 du capital.",
+    "explication": "Vote des robots sur la bougie du 2026-11-28 00:00 UTC. ACHETER : ETH, XRP ; VENDRE (pari à la baisse) : ADA, DOGE, SOL, LTC, DOT, AVAX. Chaque position vaut 1/8 du capital.",
     "raisons": {
-      "ETH": "Votes des 3 robots : vendre, vendre, vendre → VENDRE (pari à la baisse) (inchangé depuis hier). Pari à la baisse : gagne si le prix baisse (fictif, impossible au comptant).",
-      "XRP": "Votes des 3 robots : acheter, acheter, acheter → ACHETER (inchangé depuis hier).",
-      "ADA": "Votes des 3 robots : vendre, vendre, vendre → VENDRE (pari à la baisse) (inchangé depuis hier). Pari à la baisse : gagne si le prix baisse (fictif, impossible au comptant).",
+      "ETH": "Votes des 3 robots : vendre, acheter, acheter → ACHETER (nouveau depuis hier).",
+      "XRP": "Votes des 3 robots : dehors, acheter, acheter → ACHETER (inchangé depuis hier).",
+      "ADA": "Votes des 3 robots : dehors, vendre, dehors → VENDRE (pari à la baisse) (inchangé depuis hier). Pari à la baisse : gagne si le prix baisse (fictif, impossible au comptant).",
       "DOGE": "Votes des 3 robots : dehors, vendre, vendre → VENDRE (pari à la baisse) (inchangé depuis hier). Pari à la baisse : gagne si le prix baisse (fictif, impossible au comptant).",
       "SOL": "Votes des 3 robots : vendre, vendre, vendre → VENDRE (pari à la baisse) (inchangé depuis hier). Pari à la baisse : gagne si le prix baisse (fictif, impossible au comptant).",
       "LTC": "Votes des 3 robots : vendre, vendre, vendre → VENDRE (pari à la baisse) (inchangé depuis hier). Pari à la baisse : gagne si le prix baisse (fictif, impossible au comptant).",
@@ -221,33 +221,33 @@
       "cryptos": [
         {
           "symbole": "ETH",
-          "signal": "VENDRE",
+          "signal": "ACHETER",
           "votes": [
             -1,
-            -1,
-            -1
+            1,
+            1
           ],
-          "prix": 1728.64
+          "prix": 1665.99
         },
         {
           "symbole": "XRP",
           "signal": "ACHETER",
           "votes": [
-            1,
+            0,
             1,
             1
           ],
-          "prix": 0.9616
+          "prix": 0.9502
         },
         {
           "symbole": "ADA",
           "signal": "VENDRE",
           "votes": [
+            0,
             -1,
-            -1,
-            -1
+            0
           ],
-          "prix": 0.1514
+          "prix": 0.1479
         },
         {
           "symbole": "DOGE",
@@ -257,7 +257,7 @@
             -1,
             -1
           ],
-          "prix": 0.05773
+          "prix": 0.05772
         },
         {
           "symbole": "SOL",
@@ -267,7 +267,7 @@
             -1,
             -1
           ],
-          "prix": 72.75
+          "prix": 71.72
         },
         {
           "symbole": "LTC",
@@ -277,7 +277,7 @@
             -1,
             -1
           ],
-          "prix": 44.46
+          "prix": 44.66
         },
         {
           "symbole": "DOT",
@@ -287,7 +287,7 @@
             -1,
             -1
           ],
-          "prix": 0.688
+          "prix": 0.662
         },
         {
           "symbole": "AVAX",
@@ -297,32 +297,32 @@
             -1,
             -1
           ],
-          "prix": 6.731
+          "prix": 6.606
         }
       ]
     },
-    "valeur_usd": 1203.9974,
+    "valeur_usd": 1241.2959,
     "mise_en_service": "2026-11-08"
   },
   "regle_50j": {
-    "date": "2026-11-26",
+    "date": "2026-11-27",
     "poids": {},
-    "explication": "0 crypto(s) sur 14 au-dessus de leur moyenne 50 jours, soit 0 % du capital investi.\nBTC : clôture 60 577 $, moyenne 50 j 74 781 $ (-19,0 %) : en dessous → en cash\nETH : clôture 1 690 $, moyenne 50 j 2 170 $ (-22,1 %) : en dessous → en cash\nBNB : clôture 554,21 $, moyenne 50 j 678,63 $ (-18,3 %) : en dessous → en cash\nSOL : clôture 71,03 $, moyenne 50 j 91,39 $ (-22,3 %) : en dessous → en cash\nXRP : clôture 0,9438 $, moyenne 50 j 1,18 $ (-20,1 %) : en dessous → en cash\nADA : clôture 0,1486 $, moyenne 50 j 0,1914 $ (-22,3 %) : en dessous → en cash\nDOGE : clôture 0,0565 $, moyenne 50 j 0,0719 $ (-21,5 %) : en dessous → en cash\nLINK : clôture 9,28 $, moyenne 50 j 10,94 $ (-15,2 %) : en dessous → en cash\nAVAX : clôture 6,60 $, moyenne 50 j 8,55 $ (-22,9 %) : en dessous → en cash\nLTC : clôture 43,80 $, moyenne 50 j 53,25 $ (-17,8 %) : en dessous → en cash\nDOT : clôture 0,6730 $, moyenne 50 j 0,9405 $ (-28,4 %) : en dessous → en cash\nTRX : clôture 0,3041 $, moyenne 50 j 0,3211 $ (-5,3 %) : en dessous → en cash\nBCH : clôture 210,00 $, moyenne 50 j 253,16 $ (-17,0 %) : en dessous → en cash\nXLM : clôture 0,1268 $, moyenne 50 j 0,1607 $ (-21,1 %) : en dessous → en cash",
+    "explication": "0 crypto(s) sur 14 au-dessus de leur moyenne 50 jours, soit 0 % du capital investi.\nBTC : clôture 59 923 $, moyenne 50 j 74 345 $ (-19,4 %) : en dessous → en cash\nETH : clôture 1 662 $, moyenne 50 j 2 154 $ (-22,8 %) : en dessous → en cash\nBNB : clôture 554,72 $, moyenne 50 j 675,01 $ (-17,8 %) : en dessous → en cash\nSOL : clôture 71,66 $, moyenne 50 j 90,63 $ (-20,9 %) : en dessous → en cash\nXRP : clôture 0,9489 $, moyenne 50 j 1,17 $ (-19,1 %) : en dessous → en cash\nADA : clôture 0,1485 $, moyenne 50 j 0,1897 $ (-21,7 %) : en dessous → en cash\nDOGE : clôture 0,0578 $, moyenne 50 j 0,0714 $ (-19,1 %) : en dessous → en cash\nLINK : clôture 9,38 $, moyenne 50 j 10,87 $ (-13,8 %) : en dessous → en cash\nAVAX : clôture 6,61 $, moyenne 50 j 8,48 $ (-22,0 %) : en dessous → en cash\nLTC : clôture 45,20 $, moyenne 50 j 52,90 $ (-14,5 %) : en dessous → en cash\nDOT : clôture 0,6700 $, moyenne 50 j 0,9321 $ (-28,1 %) : en dessous → en cash\nTRX : clôture 0,3009 $, moyenne 50 j 0,3204 $ (-6,1 %) : en dessous → en cash\nBCH : clôture 207,30 $, moyenne 50 j 251,88 $ (-17,7 %) : en dessous → en cash\nXLM : clôture 0,1268 $, moyenne 50 j 0,1594 $ (-20,5 %) : en dessous → en cash",
     "raisons": {
-      "BTC": "Prix -19,0 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
-      "ETH": "Prix -22,1 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
-      "BNB": "Prix -18,3 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
-      "SOL": "Prix -22,3 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
-      "XRP": "Prix -20,1 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
-      "ADA": "Prix -22,3 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
-      "DOGE": "Prix -21,5 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
-      "LINK": "Prix -15,2 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
-      "AVAX": "Prix -22,9 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
-      "LTC": "Prix -17,8 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
-      "DOT": "Prix -28,4 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
-      "TRX": "Prix -5,3 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
-      "BCH": "Prix -17,0 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
-      "XLM": "Prix -21,1 % sous sa moyenne 50 jours : tendance baissière, on reste en cash."
+      "BTC": "Prix -19,4 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
+      "ETH": "Prix -22,8 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
+      "BNB": "Prix -17,8 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
+      "SOL": "Prix -20,9 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
+      "XRP": "Prix -19,1 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
+      "ADA": "Prix -21,7 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
+      "DOGE": "Prix -19,1 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
+      "LINK": "Prix -13,8 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
+      "AVAX": "Prix -22,0 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
+      "LTC": "Prix -14,5 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
+      "DOT": "Prix -28,1 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
+      "TRX": "Prix -6,1 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
+      "BCH": "Prix -17,7 % sous sa moyenne 50 jours : tendance baissière, on reste en cash.",
+      "XLM": "Prix -20,5 % sous sa moyenne 50 jours : tendance baissière, on reste en cash."
     },
     "execution": "alpaca",
     "valeur_usd": 982.3338
